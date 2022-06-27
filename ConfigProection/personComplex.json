@@ -1,0 +1,9 @@
+{
+  "name": "Artem",
+  "age": "25",
+  "languages": [ "Russian", "English" ],
+  "company": {
+    "title": "Elesy",
+    "location": "Tomsk"
+  }
+}
